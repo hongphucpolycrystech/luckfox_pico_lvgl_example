@@ -1,0 +1,19 @@
+CMakeFiles/ircam.dir/src/MLX90640_API.c.o: \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/src/MLX90640_API.c \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/src/MLX90640_I2C_Driver.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/stdint.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/features.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/bits/uClibc_config.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/sys/cdefs.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/bits/wchar.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/bits/wordsize.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/src/MLX90640_API.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/src/MLX90640_API.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/math.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/bits/huge_val.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/bits/huge_valf.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/bits/huge_vall.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/bits/inf.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/bits/nan.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/bits/mathdef.h \
+ /home/luckfox/luckfox-pico/sysdrv/source/buildroot/buildroot-2023.02.6/output/staging/usr/include/bits/mathcalls.h

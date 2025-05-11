@@ -1,0 +1,29 @@
+lib/lvgl/CMakeFiles/lvgl.dir/src/misc/lv_bidi.c.o: \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/lv_bidi.c \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/lib/gcc/arm-rockchip830-linux-uclibcgnueabihf/8.3.0/include/stddef.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/lv_bidi.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/../lv_conf_internal.h \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/lib/gcc/arm-rockchip830-linux-uclibcgnueabihf/8.3.0/include/stdint.h \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/arm-rockchip830-linux-uclibcgnueabihf/sysroot/usr/include/stdint.h \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/arm-rockchip830-linux-uclibcgnueabihf/sysroot/usr/include/features.h \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/arm-rockchip830-linux-uclibcgnueabihf/sysroot/usr/include/bits/uClibc_config.h \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/arm-rockchip830-linux-uclibcgnueabihf/sysroot/usr/include/sys/cdefs.h \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/arm-rockchip830-linux-uclibcgnueabihf/sysroot/usr/include/bits/wchar.h \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/arm-rockchip830-linux-uclibcgnueabihf/sysroot/usr/include/bits/wordsize.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/../lv_conf_kconfig.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lv_conf.h \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/lib/gcc/arm-rockchip830-linux-uclibcgnueabihf/8.3.0/include/stdbool.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/lv_txt.h \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/lib/gcc/arm-rockchip830-linux-uclibcgnueabihf/8.3.0/include/stdarg.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/lv_area.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/../font/lv_font.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/../font/../lv_conf_internal.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/../font/lv_symbol_def.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/../font/../misc/lv_area.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/lv_printf.h \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/arm-rockchip830-linux-uclibcgnueabihf/sysroot/usr/include/inttypes.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/lv_types.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/../misc/lv_mem.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/../misc/../lv_conf_internal.h \
+ /home/luckfox/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/arm-rockchip830-linux-uclibcgnueabihf/sysroot/usr/include/string.h \
+ /home/luckfox/Phuc/IRCAM_TEMP_OVERLAY/lib/lvgl/src/misc/../misc/lv_types.h
